@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Samira 👋
 
-<!--
-**samira-sadrolashrafi/samira-sadrolashrafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering graduate interested in web development and UI design.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML & CSS
+- Python
+- Figma
+- Git & GitHub
+
+**Familiar with:** Django, PostgreSQL, Bootstrap
+
+## Projects
+
+- [Recruitment Platform](https://github.com/samira-sadrolashrafi/recruitment-platform) — Django & PostgreSQL recruitment web application
+- [Flower Shop Website](https://github.com/samira-sadrolashrafi/flower-shop-website) — Responsive multi-page HTML & CSS website
+- [HTML & CSS Landing Page](https://github.com/samira-sadrolashrafi/html-css-landing-page) — Front-end landing page
+- [Research Mate UI Design](https://github.com/samira-sadrolashrafi/research-mate-ui-design) — Figma UI/UX design project
+
+## Currently
+
+Open to opportunities where I can learn, contribute, and gain real-world experience.
