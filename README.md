@@ -9,7 +9,7 @@ Computer Engineering graduate interested in **web development and UI/UX design**
 
 ## Featured Projects
 
-1. **[Trazino — Income & Expense Manager](https://github.com/samira-sadrolashrafi/income-and-expense-manager)**  
+1. **[Tarazino — Income & Expense Manager](https://github.com/samira-sadrolashrafi/income-and-expense-manager)**  
    Personal finance app with transaction tracking, balance management, filters, pagination, and dashboard charts.  
    *PHP · CodeIgniter · MySQL · Bootstrap · Docker*
 
