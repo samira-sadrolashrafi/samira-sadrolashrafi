@@ -4,7 +4,7 @@ Computer Engineering graduate interested in **web development and UI/UX design**
 
 ## Skills
 **Frontend:** HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind CSS  
-**Backend:** PHP, CodeIgniter, Python, Django  
+**Backend:** PHP, Python, Django  
 **Database & Tools:** MySQL, PostgreSQL, Git, Docker, Figma
 
 ## Featured Projects
